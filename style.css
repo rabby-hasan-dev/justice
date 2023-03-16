@@ -1,15 +1,16 @@
 .btn {
     background-color: #B68C5A;
     color: aliceblue;
+    border-color: #B68C5A;
 }
 
 /*.................. Banner-1............ */
 .banner {
     background-image: url(./images/banner.png);
-    height: 100vh;
+    height: 500px;
     background-repeat: no-repeat;
+    width: 100%;;
     
 }
-/* .banner-section{
-    vertical-align: middle;
-} */
+
+
