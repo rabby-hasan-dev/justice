@@ -19,7 +19,8 @@
 /* .................carousel................ */
 .img-1 {
     background-image: url(./images/banner.png);
-    height: 60vh;
+    /* height: 60vh; */
+    height: 540px;
     background-repeat: no-repeat;
 
 
@@ -27,14 +28,16 @@
 
 .img-2 {
     background-image: url(./images/slider-1.jpg);
-    height: 60vh;
+    /* height: 60vh; */
+    height: 540px;
     background-repeat: no-repeat;
 
 }
 
 .img-3 {
     background-image: url(./images/slider-3.jpg);
-    height: 60vh;
+    /* height: 60vh; */
+    height: 540px;
     background-repeat: no-repeat;
 
 }
