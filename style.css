@@ -4,13 +4,37 @@
     border-color: #B68C5A;
 }
 
-/*.................. Banner-1............ */
+/*......................... Banner-1........................ */
 .banner {
     background-image: url(./images/banner.png);
     height: 500px;
     background-repeat: no-repeat;
-    width: 100%;;
-    
+    width: 100%;
+    ;
+
+
 }
 
+/* ................................Banner-3........................ */
+/* .................carousel................ */
+.img-1 {
+    background-image: url(./images/banner.png);
+    height: 60vh;
+    background-repeat: no-repeat;
 
+
+}
+
+.img-2 {
+    background-image: url(./images/slider-1.jpg);
+    height: 60vh;
+    background-repeat: no-repeat;
+
+}
+
+.img-3 {
+    background-image: url(./images/slider-3.jpg);
+    height: 60vh;
+    background-repeat: no-repeat;
+
+}
